@@ -23,5 +23,6 @@ Turtle graphics. Shoot up aliens at 60 fps. I hope you can enjoy. I've beat it a
   - On Linux, you may need to install `tkinter` separately:  
   `sudo apt install python3-tk`
 4. Run the program! 🚀🎮
-![image](https://github.com/user-attachments/assets/da84f8da-3e4e-48cf-9372-dd7b2bdcbb24)
+
+- ![image](https://github.com/user-attachments/assets/da84f8da-3e4e-48cf-9372-dd7b2bdcbb24)
 
